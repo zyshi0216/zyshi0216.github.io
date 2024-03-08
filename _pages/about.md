@@ -170,10 +170,10 @@ Intelligent Elevator System Design (Innovation and Entrepreneurship Project)   J
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Campus experience**
 <br>
-- In the 2023 academic year, I was invited to participate in the microtopics for sharing the experiences of outstanding students, and analysed the experience, "The 'Plans' and the 'outcomes' at the stage of graduate school".
+- In the academic year 2023, I was invited to participate in the microtopics for sharing the experiences of outstanding students, and analysed the experience, "The 'Plans' and the 'outcomes' at the stage of graduate school".
 - In the academic year 2022, I participated in the university's excellent student commendation meeting, and spoke as the representative of excellent students.
-- In the academic year of 2021, we participated in the "China Electrical Engineering Society Cup" Mathematical Modelling Mobilisation Conference of the university, and spoke as a student representative.
-- Participated in the Mobilisation and Experience Sharing of Mathematical Modelling in 2020, and delivered a speech as a representative of students
+- In the academic year 2021, I participated in the "China Electrical Engineering Society Cup" Mathematical Modelling Mobilisation Conference of the university, and spoke as a student representative.
+- In the academic year 2020, I Participated in the Mobilisation and Experience Sharing of Mathematical Modelling, and delivered a speech as a representative of students.
 
 <!-- 2023学年度受邀参加优秀学生经验分享微拓活动，分析经验“读研阶段的'预'与'立'”
 2022学年度参加了校优秀学生表彰大会，并作为优秀学生代表发言
