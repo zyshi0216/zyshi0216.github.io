@@ -142,17 +142,8 @@ DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 
 
 # 💻 Experience
-&nbsp;&nbsp;&nbsp;&nbsp;Proficient in mainstream programming languages such as MATLAB and Python, with hardware development experience such as STM32, and experience in graphical programming languages such as LabVIEW.
-- Participated in writing the textbook “MATLAB Programming and Application” ISBN:9787121449376
-- Served as a teaching assistant in “MATLAB programming and application” courses
-- Achieved the highest performance in the 2023 AI summer camp based on the Python programming
-- Published paper titled “Design of Intelligent Elevator System Based on Space Occupancy”
-- Achieved excellent results in Electronic System Design Training (excellent)
-- Use STM32 when participating in electronic design competitions
-- Develop multiple visualization panels based on LabVIEW, including publishing two papers
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**Project experience**
 
+&nbsp;&nbsp;&nbsp;&nbsp;**Project experience**
 <br>
 The Key R&D Projects in Shaanxi Province (No. 2022GY-089)				               Sep. 2022 – Present
 <br>
@@ -174,3 +165,24 @@ Intelligent Elevator System Design (Innovation and Entrepreneurship Project)   J
 <br>
 <!-- 该项目是我的创新创业项目，项目提出一种基于容积率判定的智能电梯系统设计方案 -->
 - This project is my innovation and entrepreneurship project, the project proposes an intelligent lift system design based on the determination of volumetric ratio.
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Campus experience**
+<br>
+- In the 2023 academic year, I was invited to participate in the microtopics for sharing the experiences of outstanding students, and analysed the experience, "The 'Plans' and the 'outcomes' at the stage of graduate school".
+- In the academic year 2022, I participated in the university's excellent student commendation meeting, and spoke as the representative of excellent students.
+- In the academic year of 2021, we participated in the "China Electrical Engineering Society Cup" Mathematical Modelling Mobilisation Conference of the university, and spoke as a student representative.
+- Participated in the Mobilisation and Experience Sharing of Mathematical Modelling in 2020, and delivered a speech as a representative of students
+
+<!-- 2023学年度受邀参加优秀学生经验分享微拓活动，分析经验“读研阶段的'预'与'立'”
+2022学年度参加了校优秀学生表彰大会，并作为优秀学生代表发言
+2021学年度参加了校“中国电机工程学会杯”数学建模动员大会，并作为学生代表发言
+2020学年度参加了数学建模动员暨经验分享，并作为学生代表发言 -->
+
+
+
+
+
+
+
+
+
