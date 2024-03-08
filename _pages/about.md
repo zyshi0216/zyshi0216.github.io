@@ -150,6 +150,7 @@ DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 - Achieved excellent results in Electronic System Design Training (excellent)
 - Use STM32 when participating in electronic design competitions
 - Develop multiple visualization panels based on LabVIEW, including publishing two papers
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Project experience**
 <br>
 The Key R&D Projects in Shaanxi Province (No. 2022GY-089)				               Sep. 2022 – Present
