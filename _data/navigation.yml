@@ -1,0 +1,20 @@
+# main links links
+main:
+  - title: "Biographies"
+    url: "/#about-me"
+    
+    
+  - title: "Educations"
+    url: "/#-educations"
+    
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Awards"
+    url: "/#-awards"
+
+  - title: "Experience"
+    url: "/#-experience"
