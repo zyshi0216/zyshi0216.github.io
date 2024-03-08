@@ -155,11 +155,13 @@ The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593) 	       J
 <br>
 <!-- 项目基于MATLAB平台针对无人机作战过程中的安全态势和航路规划问题进行研究 -->
 - The project is based on the MATLAB platform for the safety posture and route planning problems during UAV operations.
+
 <br>
 The Shaanxi Provincial Sports Scientific Research Project (No. 2021382) 	  	 Sep. 2021 – Sep. 2022
 <br>
 <!-- 项目基于LABVIEW平台完成了对多个实验人员体征参数的采集、监测、存储等功能 -->
 - The project is based on the LABVIEW platform to complete the acquisition, monitoring, storage and other functions of several experimental personnel signs parameters.
+
 <br>
 Intelligent Elevator System Design (Innovation and Entrepreneurship Project)   Jan. 2021 – Sep. 2021
 <br>
