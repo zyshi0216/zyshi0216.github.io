@@ -152,6 +152,7 @@ DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 - Develop multiple visualization panels based on LabVIEW, including publishing two papers
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**Project experience**
+
 <br>
 The Key R&D Projects in Shaanxi Province (No. 2022GY-089)				               Sep. 2022 – Present
 <br>
