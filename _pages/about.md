@@ -55,8 +55,6 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 <br>
 [DOI:10.1109/TAES.2023.3303854](https://ieeexplore.ieee.org/document/10214303)
 <br>
-Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
-Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
 - The UAV trajectory prediction model based on flight state recognition proposed in this paper will play a crucial role in the field of intelligent autonomous UAV flight in the future, which provides assistance for autonomous flying UAVs in recognizing their own flight states and predicting their trajectories.
 
 
@@ -71,10 +69,6 @@ Key Research and Development Program of Shaanxi Provincial Department of Science
 <br>
 [DOI:10.1109/JSEN.2023.3346880](https://ieeexplore.ieee.org/abstract/document/10380540)
 <br>
-Project:The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593);
-Key Research and Development Program of Shaanxi Provincial Department of Science and Technology(No. 2022GY-089)
-
-
 - In this paper, a wearable device is designed for table tennis players. It enables the recognition and evaluation of athletes' professional movement skills. It is mainly based on pattern recognition technology to realise the recognition of athletes' movement skills, and at the same time assesses athletes' movement skills based on a hierarchical evaluation system. It uses artificial intelligence technology to achieve the functions of monitoring recognition and skill assessment of athletes' motor skills.
 
 </div>
@@ -91,9 +85,6 @@ Anli Zhang, **Zhuoyong Shi**, et al. Design of Wireless Motion Sensor Node Monit
 <br>
 [DOI:10.19652/j.cnki.femt.2103232](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
 <br>
-
-Project:Shaanxi Provincial Sports Bureau Scientific Research Project (No.2021382)
-
 - A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
 
 
