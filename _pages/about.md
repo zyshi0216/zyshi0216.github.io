@@ -156,7 +156,7 @@ The Shaanxi Provincial Sports Scientific Research Project (No. 2021382) 	  	 Sep
 - The project is based on the LABVIEW platform to complete the acquisition, monitoring, storage and other functions of several experimental personnel signs parameters.
 
 <br>
-Intelligent Elevator System Design (Innovation and Entrepreneurship Project)   Jan. 2021 – Sep. 2021
+Postgraduate Innovation and Practice Fund Programme					                	 Jan. 2021 – Sep. 2021
 <br>
 <!-- 该项目是我的创新创业项目，项目提出一种基于容积率判定的智能电梯系统设计方案 -->
 - This project is my innovation and entrepreneurship project, the project proposes an intelligent lift system design based on the determination of volumetric ratio.
