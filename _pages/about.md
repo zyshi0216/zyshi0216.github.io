@@ -39,8 +39,10 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 &nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Bachelor.pdf">Second Class Scholarship at School Level</a>(twice)
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 I've been selected as a Youth Envoy for the International Telecommunication Union.
+- *2023.12*: &nbsp;🎉🎉 My manuscript, “Design of motor skill recognition and hierarchical evaluation system for table tennis players”, has been accepted by IEEE Sensors Journal.
 - *2023.10*: &nbsp;🎉🎉 I was awarded the National Scholarship for Graduate Students with the first place in my major.
-- *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS.
+- *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE Transactions on Aerospace and Electronic Systems.
 - *2023.07*: &nbsp;🎉🎉 My conference, “Design of motion pattern recognition system based on artificial intelligence methods”, has been accepted by ICCSI.
 - *2023.07*: &nbsp;🎉🎉 National Second Prize in the Mathematical and Statistical Analysis Competition. 
 - *2023.07*: &nbsp;🎉🎉 First Prize of Northwest Region of Graduate Student Electronic Design Competition.
