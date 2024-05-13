@@ -145,11 +145,11 @@ The Key R and D Projects in Shaanxi Province (No. 2022GY-089)				               
 The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593) 	       Jun. 2022 – Present
 <!-- 项目基于MATLAB平台针对无人机作战过程中的安全态势和航路规划问题进行研究 -->
 - The project is based on the MATLAB platform for the safety posture and route planning problems during UAV operations.
-<br>
+
 The Shaanxi Provincial Sports Scientific Research Project (No. 2021382) 	  	 Sep. 2021 – Sep. 2022
 <!-- 项目基于LABVIEW平台完成了对多个实验人员体征参数的采集、监测、存储等功能 -->
 - The project is based on the LABVIEW platform to complete the acquisition, monitoring, storage and other functions of several experimental personnel signs parameters.
-<br>
+
 Postgraduate Innovation and Practice Fund Programme					                	 Jan. 2021 – Sep. 2021
 <!-- 该项目是我的创新创业项目，项目提出一种基于容积率判定的智能电梯系统设计方案 -->
 - This project is my innovation and entrepreneurship project, the project proposes an intelligent lift system design based on the determination of volumetric ratio.
