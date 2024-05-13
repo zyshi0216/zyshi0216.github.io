@@ -141,7 +141,7 @@ DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 The Key R and D Projects in Shaanxi Province (No. 2022GY-089)				               Sep. 2022 – Present
 <!-- 项目针对多模态数据融合进行研究，将无人机采集的多路数据进行数据融合完成无人机的飞行状态识别 -->
 - The project researches on multimodal data fusion, fusing multiple data collected by UAVs to complete the UAV flight state recognition.
-<br>
+
 The Natural Science Basic Research Program of Shaanxi (No. 2022JQ-593) 	       Jun. 2022 – Present
 <!-- 项目基于MATLAB平台针对无人机作战过程中的安全态势和航路规划问题进行研究 -->
 - The project is based on the MATLAB platform for the safety posture and route planning problems during UAV operations.
