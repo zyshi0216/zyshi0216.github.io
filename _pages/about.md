@@ -90,17 +90,10 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 <br>
 [DOI:10.1109/JSEN.2024.3394883](https://ieeexplore.ieee.org/document/10530541)
 <br>
-- In this paper, a wearable device is designed for table tennis players. It enables the recognition and evaluation of athletes' professional movement skills. It is mainly based on pattern recognition technology to realise the recognition of athletes' movement skills, and at the same time assesses athletes' movement skills based on a hierarchical evaluation system. It uses artificial intelligence technology to achieve the functions of monitoring recognition and skill assessment of athletes' motor skills.
+- In this paper, a UAV flight state estimation method based on multidimensional data fusion is proposed. The article utilises multiple sensors to achieve the determination of UAV on-board data and completes the UAV flight state estimation by means of data fusion processing.
 
 </div>
 </div>
-
-
-
-
-
-
-
 
 
 
