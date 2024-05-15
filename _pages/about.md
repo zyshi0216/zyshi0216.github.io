@@ -30,10 +30,13 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- <a href="show/Scholarship_Master.pdf">China National Scholarship for Graduate Students; Academic First Class Scholarship</a>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-	ITU Generation Connect Youth Envoy (4 Individuals in China)
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-	Outstanding Graduate Student
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-	Research Interest: Machine Learning, Pattern Recognition, UAV, Mathematical Modeling
-
+<br>
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
