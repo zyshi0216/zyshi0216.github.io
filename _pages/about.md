@@ -38,10 +38,10 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 &nbsp;&nbsp;&nbsp;&nbsp;Research Interest: Machine Learning, Pattern Recognition, UAV, Mathematical Modeling
 <br>
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Dissertation: <a href="show/Bachelor_Dissertation.pdf">Design of quadcopter UAV trajectory prediction system based on neural network</a>(Outstanding Graduation Thesis)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Scholarship: <a href="show/Scholarship_Bachelor.pdf">Second Class Scholarship at School Level</a>(twice)
+
+&nbsp;&nbsp;&nbsp;&nbsp;•	Outstanding Graduation Project
+•	Distinguished Graduate
+•	Academic Second Class Scholarship
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 I've been selected as a Youth Envoy for the International Telecommunication Union.
