@@ -28,7 +28,6 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- <a href="show/Scholarship_Master.pdf">China National Scholarship for Graduate Students; Academic First Class Scholarship</a>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-	ITU Generation Connect Youth Envoy (4 Individuals in China)
