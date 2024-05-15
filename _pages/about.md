@@ -24,7 +24,7 @@ redirect_from:
 I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, etc)
 ([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;I am currently finding a PhD position suitable for me.(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)
+&nbsp;&nbsp;&nbsp;&nbsp;**I am currently finding a PhD position suitable for me.(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)**
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
