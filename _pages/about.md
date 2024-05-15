@@ -127,6 +127,10 @@ Anli Zhang, **Zhuoyong Shi**, et al. An Evaluation Method for Aircraft Atmospher
 <br>
 [Patent No: CN202310946630.7](https://patents.glgoo.top/patent/CN116662937B/en)
 <br>
+Jiandong Zhang, Dinghan Wang, Qiming Yang*, **Zhuoyong Shi**, et al. Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach [J], Chinese Journal of Aeronautics. (SCI Q1 IF=5.7)
+<br>
+[DOI: 10.1016/j.cja.2024.03.009](https://www.sciencedirect.com/science/article/pii/S1000936124000839)
+<br>
 Anli Zhang, Meng Xie, **Zhuoyong Shi**, et al. Design of Intelligent Elevator Control System Based on Space Occupancy Determination [J], Application of Electronic Technique. (PKU IF=1.11)
 <br>
 DOI: 10.16157/j.issn.0258-7998.201037
