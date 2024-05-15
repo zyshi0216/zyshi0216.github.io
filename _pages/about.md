@@ -28,6 +28,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
+
 •	China National Scholarship for Graduate Students; Academic First Class Scholarship
 <br>
 •	ITU Generation Connect Youth Envoy (4 Individuals in China)
@@ -37,6 +38,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 •	Research Interest: Machine Learning, Pattern Recognition, UAV, Mathematical Modeling
 <br>
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
+
 •	Outstanding Graduation Project
 •	Distinguished Graduate
 •	Academic Second Class Scholarship
