@@ -27,8 +27,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 &nbsp;&nbsp;&nbsp;&nbsp;**I am currently finding a PhD position suitable for me.(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)**
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54
-
+- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, 1/54<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	China National Scholarship for Graduate Students; Academic First Class Scholarship
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ITU Generation Connect Youth Envoy (4 Individuals in China)
