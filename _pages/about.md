@@ -40,7 +40,9 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
 
 •	Outstanding Graduation Project
+<br>
 •	Distinguished Graduate
+<br>
 •	Academic Second Class Scholarship
 
 # 🔥 News
