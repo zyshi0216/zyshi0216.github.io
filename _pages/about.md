@@ -83,6 +83,27 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSEN 2024</div><img src='images/JSEN2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Zhuoyong Shi**, Guoqing Shi, Jiandong Zhang* et al. Design of UAV Flight State Recognition System for Multi-sensor Data Fusion [J], IEEE Sensors Journal. (SCI JCR Q1 IF=4.3) 
+<br>
+[DOI:10.1109/JSEN.2024.3394883](https://ieeexplore.ieee.org/document/10530541)
+<br>
+- In this paper, a wearable device is designed for table tennis players. It enables the recognition and evaluation of athletes' professional movement skills. It is mainly based on pattern recognition technology to realise the recognition of athletes' movement skills, and at the same time assesses athletes' movement skills based on a hierarchical evaluation system. It uses artificial intelligence technology to achieve the functions of monitoring recognition and skill assessment of athletes' motor skills.
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
