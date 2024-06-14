@@ -123,7 +123,7 @@ Anli Zhang, **Zhuoyong Shi**, et al. Design of Wireless Motion Sensor Node Monit
 <br>
 [DOI:10.19652/j.cnki.femt.2103232](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XeNOHF5oHgMvhQ4zMci-4vA35WOfeFDl8UXeBUGYnGh1&uniplatform=NZKPT)
 <br>
-- A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
+- Two UAV trajectory prediction models based on multiple flight modes were proposed, and the impact of UAV flight mode recognition on the prediction accuracy of the two algorithms was quantitatively compared.
 
 
 </div>
