@@ -84,7 +84,9 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSEN 2024</div><img src='images/JSEN2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Zhuoyong Shi**, Guoqing Shi, Jiandong Zhang* et al. Design of UAV Flight State Recognition System for Multi-sensor Data Fusion [J], IEEE Sensors Journal. (SCI JCR Q1 IF=4.3) 
+**Zhuoyong Shi**, Guoqing Shi, Jiandong Zhang* et al. Design of UAV Flight State Recognition System for Multi-sensor Data Fusion [J], IEEE Sensors Journal.
+<br>
+(SCI Q1 IF=4.3) 
 <br>
 [DOI:10.1109/JSEN.2024.3394883](https://ieeexplore.ieee.org/document/10530541)
 <br>
@@ -94,6 +96,22 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 </div>
 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Drones 2024</div><img src='images/D1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Zhuoyong Shi**, Jiandong Zhang, Guoqing Shi*, et al. Design of a UAV Trajectory Prediction System Based on Multi-Flight Modes [J], Drones.
+<br>
+(SCI Q2 IF=5.5)
+<br>
+[DOI:10.3390/drones8060255](https://doi.org/10.3390/drones8060255)
+<br>
+- A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
+
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
@@ -110,6 +128,9 @@ Anli Zhang, **Zhuoyong Shi**, et al. Design of Wireless Motion Sensor Node Monit
 
 </div>
 </div>
+
+
+
 
 <!-- 带图文章结束，下面是不带图的 -->
 
@@ -151,7 +172,7 @@ DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 - *2023.7*, National Graduate Student Electronic Design Competition, Northwestern Regional First Prize, Team Award
 - *2019.10*, Shaanxi Higher Mathematics Competition for College Students, Shaanxi Province First Prize, Individual Award
 <br>
-<a href="show/certificate.pdf">Click here to view my competition certificate</a>
+<a href="show/certificate.pdf">Click here to view all competition certificate</a>
 
 
 
