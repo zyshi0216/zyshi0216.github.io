@@ -103,7 +103,7 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
   
 **Zhuoyong Shi**, Jiandong Zhang, Guoqing Shi*, et al. Design of a UAV Trajectory Prediction System Based on Multi-Flight Modes [J], Drones.
 <br>
-(SCI Q2 IF=5.5)
+(SCI Q1 IF=5.6)
 <br>
 [DOI:10.3390/drones8060255](https://doi.org/10.3390/drones8060255)
 <br>
@@ -112,6 +112,22 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Drones 2024</div><img src='images/Drones_safty.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Zhuoyong Shi**, Jiandong Zhang, Guoqing Shi*, et al. Autonomous UAV Safety Oriented Situation Monitoring and Evaluation System [J], Drones.
+<br>
+(SCI Q1 IF=5.6)
+<br>
+[DOI:10.3390/drones8060255](https://doi.org/10.3390/drones8060255)
+<br>
+- With the rapid development of UAVs, the problem of safety supervision of UAV platforms gradually emerges. Based on the need for a UAV safety monitoring platform, we designed a LABVIEW-based UAV Online Monitoring and Safty Situation Assessment System.
+
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
