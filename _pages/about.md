@@ -57,7 +57,7 @@ I have published more than 10 papers in related academic fields.(SCI, EI, CSCD, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2023</div><img src='images/TAES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction Based on Flight State Recognition [J], IEEE Transactions on Aerospace and Electronic Systems. (SCI JCR Q1 IF=4.4) 
+Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction Based on Flight State Recognition [J], IEEE Transactions on Aerospace and Electronic Systems. (SCI JCR Q1 IF=5.1) 
 <br>
 [DOI:10.1109/TAES.2023.3303854](https://ieeexplore.ieee.org/document/10214303)
 <br>
@@ -122,11 +122,30 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 <br>
 [DOI:10.3390/drones8060255](https://doi.org/10.3390/drones8060255)
 <br>
-- With the rapid development of UAVs, the problem of safety supervision of UAV platforms gradually emerges. Based on the need for a UAV safety monitoring platform, we designed a LABVIEW-based UAV Online Monitoring and Safty Situation Assessment System.
+- With the rapid development of UAVs, the problem of safety supervision of UAV platforms gradually emerges. Based on the need for a UAV safety monitoring platform, we designed a LABVIEW-based UAV Online Monitoring and Safty Situation Evaluation System.
 
 
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2024</div><img src='images/Sensors_xie1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Meng Xie, **Zhuoyong Shi***, et al. Fault Diagnosis and Prediction System for Metal Wire Feeding Additive Manufacturing [J], Sensors.
+<br>
+(SCI Q2 IF=3.4)
+<br>
+[DOI:10.3390/s24134277](https://doi.org/10.3390/s24134277)
+<br>
+- The monitoring and prediction system established in this study is intended to provide basic research assistance in the field of fault diagnosis.
+
+
+</div>
+</div>
+
+
 
 
 
