@@ -81,6 +81,25 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Drones 2024</div><img src='images/D1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Zhuoyong Shi**, Jiandong Zhang, Guoqing Shi*, et al. Design of a UAV Trajectory Prediction System Based on Multi-Flight Modes [J], Drones.
+<br>
+(SCI Q1 IF=5.6)
+<br>
+[DOI:10.3390/drones8060255](https://doi.org/10.3390/drones8060255)
+<br>
+- A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
+
+
+</div>
+</div>
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSEN 2024</div><img src='images/JSEN2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,20 +117,6 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Drones 2024</div><img src='images/D1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**Zhuoyong Shi**, Jiandong Zhang, Guoqing Shi*, et al. Design of a UAV Trajectory Prediction System Based on Multi-Flight Modes [J], Drones.
-<br>
-(SCI Q1 IF=5.6)
-<br>
-[DOI:10.3390/drones8060255](https://doi.org/10.3390/drones8060255)
-<br>
-- A wireless motion sensor node monitoring system was designed to address the problem that the human body has variable parameters during exercise and real-time online monitoring is not easy to realise.
-
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Drones 2024</div><img src='images/Drones_safty.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
