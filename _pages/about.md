@@ -125,7 +125,7 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 <br>
 (SCI Q1 IF=5.6)
 <br>
-[DOI:10.3390/drones8060255](https://doi.org/10.3390/drones8060255)
+[DOI:10.3390/drones8070308](https://doi.org/10.3390/drones8070308)
 <br>
 - With the rapid development of UAVs, the problem of safety supervision of UAV platforms gradually emerges. Based on the need for a UAV safety monitoring platform, we designed a LABVIEW-based UAV Online Monitoring and Safty Situation Evaluation System.
 
