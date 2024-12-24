@@ -21,7 +21,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;My **research interest** includes: Machine Learning, Pattern Recognition, Data fusion analysis, UAV, Deep Reinforcement Learning, Signal Processing, Mathematical Modeling etc. 
-I have published more than 10 papers in related academic fields.(SCI, EI, etc)
+I have published more than 10 papers in these academic fields.(SCI, EI, etc)
 ([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;**I am currently finding a PhD position suitable for me.(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)**
