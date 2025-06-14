@@ -62,8 +62,8 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 - *2023.10*: &nbsp;🎉🎉 I was awarded the National Scholarship for Graduate Students with the first place in my major.
 - *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE Transactions on Aerospace and Electronic Systems.
 - *2023.07*: &nbsp;🎉🎉 I get the First Prize of Northwest Region in Postgraduate Student Electronic Design Competition.
+- *2022.03*: &nbsp;🎉🎉 I received the master's offer letter from the School of Electronic Information of Northwestern Polytechnical University.
 
-https://www.itu.int/itu-d/meetings/gif-24/programme/speakers/#IPSSpeaker1195-95
 
 
 # 📝 Publications 
