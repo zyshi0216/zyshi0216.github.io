@@ -82,7 +82,7 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSEN 2023</div><img src='images/JSEN1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSEN 2024</div><img src='images/JSEN1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Zhuoyong Shi**, Yetao Jia, Guoqing Shi*, et al. Design of motor skill recognition and hierarchical evaluation system for table tennis players [J], IEEE Sensors Journal. (SCI JCR Q1 IF=4.3) 
