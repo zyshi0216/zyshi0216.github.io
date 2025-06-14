@@ -68,7 +68,7 @@ https://www.itu.int/itu-d/meetings/gif-24/programme/speakers/#IPSSpeaker1195-95
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2023</div><img src='images/TAES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAES 2024</div><img src='images/TAES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction Based on Flight State Recognition [J], IEEE Transactions on Aerospace and Electronic Systems. (SCI JCR Q1 IF=5.1) 
@@ -100,7 +100,7 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
   
 **Zhuoyong Shi**, Jiandong Zhang, Guoqing Shi*, et al. Design of a UAV Trajectory Prediction System Based on Multi-Flight Modes [J], Drones.
 <br>
-(SCI Q1 IF=5.6)
+(SCI Q1 IF=4.8)
 <br>
 [DOI:10.3390/drones8060255](https://doi.org/10.3390/drones8060255)
 <br>
@@ -137,7 +137,7 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
   
 **Zhuoyong Shi**, Jiandong Zhang, Guoqing Shi*, et al. Autonomous UAV Safety Oriented Situation Monitoring and Evaluation System [J], Drones.
 <br>
-(SCI Q1 IF=5.6)
+(SCI Q1 IF=4.8)
 <br>
 [DOI:10.3390/drones8070308](https://doi.org/10.3390/drones8070308)
 <br>
