@@ -35,7 +35,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Wu Yong*
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ITU Generation Connect Youth Envoy.([View Position](https://www.itu.int/generationconnect/gc-asp/))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ITU Generation Connect Youth Envoy ([View Position](https://www.itu.int/generationconnect/gc-asp/))
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	China National Scholarship for Graduate Students (Two consecutive years)
 <br>
