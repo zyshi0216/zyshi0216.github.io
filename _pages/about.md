@@ -21,11 +21,15 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;Shi Zhuoyong was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, he was pursuing a Bachelor's Degree in Engineering at Xi'an Jiaotong University City College. During the years 2022 to 2025, he was pursuing a Master's degree in Engineering at Northwestern Polytechnical University.Currently, he is pursuing a PhD in Science at the National University of Singapore.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;His **research interests** includes: Flexible Electronic System, Machine Learning, Pattern Recognition, Data Fusion, UAV, Mathematical Modeling etc. 
-He has published more than ten papers indexed by SCI.([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)**
+He has published more than ten papers indexed by SCI.([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
+<br>
+(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)**
 
 # 📖 Educations
 - *2025.08 - Present*, National University of Singapore, PhD in Science, Flexible Electronic System,**Full Scholarship**
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Liu Xiaogang, FSNAS*
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	China National Scholarship for Graduate Students (Two consecutive years)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ITU Generation Connect Youth Envoy (4 Individuals in China)
@@ -34,7 +38,9 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Academic First Class Scholarship
 - *2022.09 - 2025.06*, Northwestern Polytechnic University, MPhil in Engineering, Electronic Science and Technology, **1/267**
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Wu Yong*
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	China National Scholarship for Graduate Students (Two consecutive years)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ITU Generation Connect Youth Envoy (4 Individuals in China)
@@ -43,7 +49,9 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Academic First Class Scholarship
 - *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor in Engineering, Electronic Information Engineering, 3/108
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Zhang Anli*
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Outstanding Graduation Project
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Distinguished Graduate
@@ -51,6 +59,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Academic Second Class Scholarship
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 I received a full scholarship offer from the Faculty of Science, National University of Singapore.
 - *2024.05*: &nbsp;🎉🎉 My manuscript, “Design of motor skill recognition and hierarchical evaluation system for table tennis players”, has been accepted by IEEE Sensors Journal.
 - *2024.03*: &nbsp;🎉🎉 I've been selected as a Youth Envoy for the International Telecommunication Union.(4 Individuals in China)
 - *2023.12*: &nbsp;🎉🎉 My manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been accepted by IEEE Sensors Journal.
