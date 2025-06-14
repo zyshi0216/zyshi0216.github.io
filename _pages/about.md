@@ -18,13 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-&nbsp;&nbsp;&nbsp;&nbsp;I was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, I was pursuing my Bachelor's Degree at Xi'an Jiaotong University City College. During the years 2022 to 2025, I am pursuing a master's degree in Electronic Science and Technology at Northwestern Polytechnical University.
+&nbsp;&nbsp;&nbsp;&nbsp;Shi Zhuoyong was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, he was pursuing a Bachelor's Degree in Engineering at Xi'an Jiaotong University City College. During the years 2022 to 2025, he was pursuing a Master's degree in Engineering at Northwestern Polytechnical University.Currently, he is pursuing a PhD in Science at the National University of Singapore.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;My **research interest** includes: Machine Learning, Pattern Recognition, Data fusion analysis, UAV, Deep Reinforcement Learning, Signal Processing, Mathematical Modeling etc. 
-I have published more than 10 papers in these academic fields.(SCI, EI, etc)
-([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**I am currently finding a PhD position suitable for me.(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)**
+&nbsp;&nbsp;&nbsp;&nbsp;His **research interests** includes: Flexible Electronic System, Machine Learning, Pattern Recognition, Data Fusion, UAV, Mathematical Modeling etc. 
+He has published more than ten papers indexed by SCI.([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)**
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, **1/267**
