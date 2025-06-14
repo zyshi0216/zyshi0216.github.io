@@ -28,7 +28,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 # 📖 Educations
 - *2025.08 - Present*, National University of Singapore, PhD in Science, Flexible Electronic System,**Full Scholarship**
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Liu Xiaogang, FSNAS*
+&nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Liu Xiaogang, FSNAS(Fellow of the Singapore National Academy of Science)*
 <br>
 
 - *2022.09 - 2025.06*, Northwestern Polytechnic University, MPhil in Engineering, Electronic Science and Technology, **1/267**
