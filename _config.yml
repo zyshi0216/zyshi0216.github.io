@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shi Zhuoyong"
-description              : "Shi Zhuoyong is a current master's student from Northwestern Polytechnical University"
+description              : "Shi Zhuoyong is currently pursuing a PhD in Science at the National University of Singapore (Full Scholarship)"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en"
-  email            : "shizy@mail.nwpu.edu.cn"
+  email            : "shizhuoyong@u.nus.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,9 +43,10 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0002-3496-7362"
+  linkedin         : "Zhuoyong Shi"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
