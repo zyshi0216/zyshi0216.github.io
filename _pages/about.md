@@ -24,16 +24,26 @@ redirect_from:
 He has published more than ten papers indexed by SCI.([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))(<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)**
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, Northwestern Polytechnic University, MPhil, Electronic Science and Technology, **1/267**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	China National Scholarship for Graduate Students; Academic First Class Scholarship
+- *2025.08 - Present*, National University of Singapore, PhD in Science, Flexible Electronic System,**Full Scholarship**
+&nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Liu Xiaogang, FSNAS*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	China National Scholarship for Graduate Students (Two consecutive years)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ITU Generation Connect Youth Envoy (4 Individuals in China)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Outstanding Graduate Student
 <br>
-- *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor, Electronic Information Engineering, 3/108
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Academic First Class Scholarship
+- *2022.09 - 2025.06*, Northwestern Polytechnic University, MPhil in Engineering, Electronic Science and Technology, **1/267**
+&nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Wu Yong*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	China National Scholarship for Graduate Students (Two consecutive years)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ITU Generation Connect Youth Envoy (4 Individuals in China)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Outstanding Graduate Student
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Academic First Class Scholarship
+- *2018.09 - 2022.06*, Xi'an Jiaotong University City College, Bachelor in Engineering, Electronic Information Engineering, 3/108
+&nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof.Zhang Anli*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Outstanding Graduation Project
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Distinguished Graduate
