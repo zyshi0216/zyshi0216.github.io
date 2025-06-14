@@ -54,8 +54,8 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 I received a full scholarship offer from the Faculty of Science, National University of Singapore.
-- *2025.03*: &nbsp;🎉🎉 As the only youth representative from China, I went to Cuba to attend the Global Youth Summit 2025, Sponsored by China.([View Details](https://www.itu.int/itu-d/meetings/gif-24/programme/speakers/#IPSSpeaker1195-95))
-- *2024.11*: &nbsp;🎉🎉 As the only youth representative from Asia, I went to Malta to attend the Global Innovation Forum 2024, Sponsored by ITU.([View Details](https://www.itu.int/itu-d/meetings/global-youth-summit-25/programme/interactive-programme/#IPSSpeaker1195-64))
+- *2025.03*: &nbsp;🎉🎉 As the only youth representative from China, I went to Cuba to attend the Global Youth Summit 2025, Sponsored by China.([View Details](https://www.itu.int/itu-d/meetings/global-youth-summit-25/programme/interactive-programme/#IPSSpeaker1195-64|parentHorizontalTab2|ChildVerticalTab_29))
+- *2024.11*: &nbsp;🎉🎉 As the only youth representative from Asia, I went to Malta to attend the Global Innovation Forum 2024, Sponsored by ITU.([View Details](https://www.itu.int/itu-d/meetings/gif-24/programme/speakers/#IPSSpeaker1195-95))
 - *2024.05*: &nbsp;🎉🎉 My manuscript, “Design of motor skill recognition and hierarchical evaluation system for table tennis players”, has been accepted by IEEE Sensors Journal.
 - *2024.03*: &nbsp;🎉🎉 I've been selected as a Youth Envoy for the International Telecommunication Union.(4 Individuals in China)
 - *2023.12*: &nbsp;🎉🎉 My manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been accepted by IEEE Sensors Journal.
