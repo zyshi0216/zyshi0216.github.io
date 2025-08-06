@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-&nbsp;&nbsp;&nbsp;&nbsp;Shi Zhuoyong was born in Shaanxi Province, China in 2001. During the year 2018 to 2022, he was pursuing a Bachelor's Degree in Engineering at Xi'an Jiaotong University City College. During the years 2022 to 2025, he was pursuing a Master's degree in Engineering at Northwestern Polytechnical University.Currently, he is pursuing a PhD in Science at the National University of Singapore.
+&nbsp;&nbsp;&nbsp;&nbsp;Shi Zhuoyong was born in China in 2001. He is currently pursuing a PhD in Science at the National University of Singapore on a fully funded research scholarship. He received his Bachelor of Engineering and Master of Engineering degrees in 2022 and 2025, respectively.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;His **research interests** includes: Flexible Electronic System, Machine Learning, Pattern Recognition, Data Fusion, UAV, Mathematical Modeling etc. 
 He has published more than ten papers indexed by SCI.([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
