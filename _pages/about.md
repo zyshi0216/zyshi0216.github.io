@@ -175,26 +175,6 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2024</div><img src='images/Sensors_xie1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Meng Xie, **Zhuoyong Shi***, et al. Fault Diagnosis and Prediction System for Metal Wire Feeding Additive Manufacturing [J], Sensors.
-<br>
-(SCI Q2 IF=3.4)
-<br>
-[DOI:10.3390/s24134277](https://doi.org/10.3390/s24134277)
-<br>
-- The monitoring and prediction system established in this study is intended to provide basic research assistance in the field of fault diagnosis.
-
-
-</div>
-</div>
-
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FEMT 2022</div><img src='images/LabVIEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
