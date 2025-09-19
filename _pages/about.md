@@ -64,6 +64,29 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 - *2023.07*: &nbsp;🎉🎉 I get the First Prize of Northwest Region in Postgraduate Student Electronic Design Competition.
 - *2022.03*: &nbsp;🎉🎉 I received the master's offer letter from the School of Electronic Information of Northwestern Polytechnical University.
 
+<h1 id="news">🔥 News</h1>
+
+<ul>
+  <li><em>2025.04</em>: &nbsp;🎉🎉 I received a full scholarship offer from the Faculty of Science, National University of Singapore.</li>
+  <li><em>2025.03</em>: &nbsp;🎉🎉 As the only youth representative from China, I went to Cuba to attend the Global Youth Summit 2025, Sponsored by China. (<a href="https://www.itu.int/itu-d/meetings/global-youth-summit-25/programme/interactive-programme/#IPSSpeaker1195-64">View Details</a>)</li>
+</ul>
+
+<details>
+  <summary>
+    <span class="when-closed">▼ 展开更多 News</span>
+    <span class="when-open">▲ 收起</span>
+  </summary>
+  <ul>
+    <li><em>2024.11</em>: &nbsp;🎉🎉 As the only youth representative from Asia, I went to Malta to attend the Global Innovation Forum 2024, Sponsored by ITU. (<a href="https://www.itu.int/itu-d/meetings/gif-24/programme/speakers/#IPSSpeaker1195-95">View Details</a>)</li>
+    <li><em>2024.05</em>: &nbsp;🎉🎉 My manuscript, “Design of motor skill recognition and hierarchical evaluation system for table tennis players”, has been accepted by IEEE Sensors Journal.</li>
+    <li><em>2024.03</em>: &nbsp;🎉🎉 I've been selected as a Youth Envoy for the International Telecommunication Union. (4 Individuals in China)</li>
+    <li><em>2023.12</em>: &nbsp;🎉🎉 My manuscript, “Design of UAV Flight State Recognition System for Multi-sensor Data Fusion”, has been accepted by IEEE Sensors Journal.</li>
+    <li><em>2023.10</em>: &nbsp;🎉🎉 I was awarded the National Scholarship for Graduate Students with the first place in my major.</li>
+    <li><em>2023.08</em>: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE Transactions on Aerospace and Electronic Systems.</li>
+    <li><em>2023.07</em>: &nbsp;🎉🎉 I get the First Prize of Northwest Region in Postgraduate Student Electronic Design Competition.</li>
+    <li><em>2022.03</em>: &nbsp;🎉🎉 I received the master's offer letter from the School of Electronic Information of Northwestern Polytechnical University.</li>
+  </ul>
+</details>
 
 
 # 📝 Publications 
