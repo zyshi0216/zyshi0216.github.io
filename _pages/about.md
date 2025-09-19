@@ -52,7 +52,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Academic Second Class Scholarship
 
-<!--
+<!--这段已注销隐藏
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 I received a full scholarship offer from the Faculty of Science, National University of Singapore.
 - *2025.03*: &nbsp;🎉🎉 As the only youth representative from China, I went to Cuba to attend the Global Youth Summit 2025, Sponsored by China.([View Details](https://www.itu.int/itu-d/meetings/global-youth-summit-25/programme/interactive-programme/#IPSSpeaker1195-64))
@@ -73,7 +73,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 
 <ul>
   <li><em>2025.04</em>: &nbsp;🎉🎉 I received a full scholarship offer from the Faculty of Science, National University of Singapore.</li>
-  <li><em>2025.03</em>: &nbsp;🎉🎉 As the only youth representative from China, I went to Cuba to attend the Global Youth Summit 2025, Sponsored by China. (<a href="https://www.itu.int/itu-d/meetings/global-youth-summit-25/programme/interactive-programme/#IPSSpeaker1195-64">View Details</a>)</li>
+  <li><em>2025.07</em>: &nbsp;🎉🎉 I am enrolled as a PhD student at the School of Science, National University of Singapore</li>
 </ul>
 
 <details>
@@ -82,6 +82,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
     <span class="when-open">▲ Show less</span>
   </summary>
   <ul>
+    <li><em>2025.03</em>: &nbsp;🎉🎉 As the only youth representative from China, I went to Cuba to attend the Global Youth Summit 2025, Sponsored by China. (<a href="https://www.itu.int/itu-d/meetings/global-youth-summit-25/programme/interactive-programme/#IPSSpeaker1195-64">View Details</a>)</li>
     <li><em>2024.11</em>: &nbsp;🎉🎉 As the only youth representative from Asia, I went to Malta to attend the Global Innovation Forum 2024, Sponsored by ITU. (<a href="https://www.itu.int/itu-d/meetings/gif-24/programme/speakers/#IPSSpeaker1195-95">View Details</a>)</li>
     <li><em>2024.05</em>: &nbsp;🎉🎉 My manuscript, “Design of motor skill recognition and hierarchical evaluation system for table tennis players”, has been accepted by IEEE Sensors Journal.</li>
     <li><em>2024.03</em>: &nbsp;🎉🎉 I've been selected as a Youth Envoy for the International Telecommunication Union. (4 Individuals in China)</li>
