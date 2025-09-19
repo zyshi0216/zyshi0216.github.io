@@ -77,10 +77,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 </ul>
 
 <details>
-  <summary>
-    <span class="when-closed">▼ Show more News</span>
-    <span class="when-open">▲ Show less</span>
-  </summary>
+  <summary>Show more News</summary>
   <ul>
     <li><em>2025.03</em>: &nbsp;🎉🎉 As the only youth representative from China, I went to Cuba to attend the Global Youth Summit 2025, Sponsored by China. (<a href="https://www.itu.int/itu-d/meetings/global-youth-summit-25/programme/interactive-programme/#IPSSpeaker1195-64">View Details</a>)</li>
     <li><em>2024.11</em>: &nbsp;🎉🎉 As the only youth representative from Asia, I went to Malta to attend the Global Innovation Forum 2024, Sponsored by ITU. (<a href="https://www.itu.int/itu-d/meetings/gif-24/programme/speakers/#IPSSpeaker1195-95">View Details</a>)</li>
