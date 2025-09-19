@@ -120,7 +120,7 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
         <summary>
           <img src="images/TAES.png" alt="sym" width="100%">
         </summary>
-        <img src="images/TAES.png" alt="sym_hd" width="100%">
+        <img src="images/TAES.png" alt="sym_hd" width="200%">
       </details>
 
     </div>
@@ -136,6 +136,32 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
 </div>
 
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TAES 2024</div>
+
+      <!-- 用 details/summary 实现点击缩略图展开高清图 -->
+      <details>
+        <summary>
+          <img src="images/TAES.png" alt="sym" width="100%">
+        </summary>
+        <img src="images/TAES.png" alt="sym_hd" width="200%">
+      </details>
+
+    </div>
+  </div>
+
+
+Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction Based on Flight State Recognition [J], IEEE Transactions on Aerospace and Electronic Systems. (SCI JCR Q1 IF=5.1) 
+<br>
+[DOI:10.1109/TAES.2023.3303854](https://ieeexplore.ieee.org/document/10214303)
+<br>
+- The UAV trajectory prediction model based on flight state recognition proposed in this paper will play a crucial role in the field of intelligent autonomous UAV flight in the future, which provides assistance for autonomous flying UAVs in recognizing their own flight states and predicting their trajectories.
+
+  </div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSEN 2024</div><img src='images/JSEN1.png' alt="sym" width="100%"></div></div>
