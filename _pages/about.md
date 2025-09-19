@@ -240,6 +240,29 @@ Meng Xie, Ze Hui, Anli Zhang, **Zhuoyong Shi**. Design of Intelligent WIFI Car C
 DOI: 10.19557/j.cnki.1001-9944.2020.12.005
 
 
+<details>
+  <summary>Show full publication list</summary>
+  <ul>
+    <li>[J4] Zhuoyong Shi, Jiandong Zhang, Guoqing Shi*, et al. Autonomous UAV Safety Oriented Situation Monitoring and Evaluation System. <em>Drones</em>, 2024. (SCI Q1, IF=4.8) <a href="https://doi.org/10.3390/drones8070308">DOI</a></li>
+    <li>[J5] Zhuoyong Shi, Yetao Jia, Guoqing Shi*, et al. Design of motor skill recognition and hierarchical evaluation system for table tennis players. <em>IEEE Sensors Journal</em>, 2023. (SCI Q1, IF=4.5) <a href="https://doi.org/10.1109/JSEN.2023.3346880">DOI</a></li>
+    <li>[J6] Yongchao Zhang, Wei Xu, Helin Ye, <strong>Zhuoyong Shi*</strong>. A Two-Stage Optimization Framework for UAV Fleet Sizing and Task Allocation in Emergency Logistics Using the GWO and CBBA. <em>Drones</em>, 2024. (SCI Q1, IF=4.8) <a href="https://doi.org/10.3390/drones9070501">DOI</a></li>
+    <li>[J7] Qian Zhang, Feng Wang, Shimei Zhang, Lingling Luo, <strong>Zhuoyong Shi*</strong>. Data-Driven Optimization of C4 Olefin Synthesis. <em>Contemporary Mathematics</em>, 2024. (SCI Q1, IF=2.5)</li>
+    <li>[J8] Nan Li, <strong>Zhuoyong Shi*</strong>, Jiahui Jin, et al. Intelligent Firefighting and Smart Escape Route Planning System. <em>Sensors</em>, 2024. (SCI Q2, IF=3.5) <a href="https://doi.org/10.3390/s24196438">DOI</a></li>
+    <li>[J9] Meng Xie, <strong>Zhuoyong Shi*</strong>, Xixi Yue, et al. Fault Diagnosis and Prediction System for Metal Wire Feeding Additive Manufacturing. <em>Sensors</em>, 2024. (SCI Q2, IF=3.5) <a href="https://doi.org/10.3390/s24134277">DOI</a></li>
+    <li>[J10] Jiandong Zhang, Dinghan Wang, Qiming Yang, <strong>Zhuoyong Shi</strong>, et al. Loyal wingman task execution for future aerial combat: A hierarchical prior-based reinforcement learning approach. <em>Chinese Journal of Aeronautics</em>, 2024. (SCI Q1, IF=5.7) <a href="https://doi.org/10.1016/j.cja.2024.03.009">DOI</a></li>
+    <li>[C1] <strong>Zhuoyong Shi</strong>, et al. Autonomous Security Evaluation Model for UAV Based on Airborne Information. <em>ICICSP 2023</em>. <a href="https://doi.org/10.1109/ICICSP59554.2023.10390620">DOI</a></li>
+    <li>[C2] <strong>Zhuoyong Shi*</strong>, et al. Design of motion pattern recognition system based on AI methods. <em>ICCSI 2023</em>. <a href="https://doi.org/10.1109/ICCSI58851.2023.10303805">DOI</a></li>
+    <li>[P1] Anli Zhang, <strong>Zhuoyong Shi</strong>, et al. An Evaluation Method for Aircraft Atmospheric Data Security Monitoring System. <em>Patent (China)</em>, CN116662937B</li>
+  </ul>
+</details>
+
+
+
+
+
+
+
+
 
 
 # 🎖 Awards
