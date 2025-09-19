@@ -243,7 +243,9 @@ Anli Zhang, **Zhuoyong Shi**, et al. Design of Wireless Motion Sensor Node Monit
       <a href="https://doi.org/10.3390/drones9070501">https://doi.org/10.3390/drones9070501</a>
     </li>
 
-    <li>[J<sub>7</sub>] Qian Zhang, Feng Wang, Shimei Zhang, Lingling Luo, <strong>Zhuoyong Shi*</strong>. Data-Driven Optimization of C4 Olefin Synthesis: A Gradient Boosting and Particle Swarm Optimization Framework. <em>Contemporary Mathematics</em>, 2024. (SCI Q1, IF=2.5)</li>
+    <li>[J<sub>7</sub>] Qian Zhang, Feng Wang, Shimei Zhang, Lingling Luo, <strong>Zhuoyong Shi*</strong>. Data-Driven Optimization of C4 Olefin Synthesis: A Gradient Boosting and Particle Swarm Optimization Framework. <em>Contemporary Mathematics</em>, 2024. (SCI Q1, IF=2.5)
+    <a href="https://doi.org/10.37256/cm.6420257205">https://doi.org/10.37256/cm.6420257205</a>
+    </li>
 
     <li>[J<sub>8</sub>] Nan Li, <strong>Zhuoyong Shi*</strong>, Jiahui Jin, et al. Design of Intelligent Firefighting and Smart Escape Route Planning System Based on Improved Ant Colony Algorithm. <em>Sensors</em>, 2024. (SCI Q2, IF=3.5) 
       <a href="https://doi.org/10.3390/s24196438">https://doi.org/10.3390/s24196438</a>
