@@ -52,6 +52,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Academic Second Class Scholarship
 
+<!--
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 I received a full scholarship offer from the Faculty of Science, National University of Singapore.
 - *2025.03*: &nbsp;🎉🎉 As the only youth representative from China, I went to Cuba to attend the Global Youth Summit 2025, Sponsored by China.([View Details](https://www.itu.int/itu-d/meetings/global-youth-summit-25/programme/interactive-programme/#IPSSpeaker1195-64))
@@ -63,6 +64,10 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 - *2023.08*: &nbsp;🎉🎉 My manuscript, “UAV Trajectory Prediction Based on Flight State Recognition”, has been accepted by IEEE Transactions on Aerospace and Electronic Systems.
 - *2023.07*: &nbsp;🎉🎉 I get the First Prize of Northwest Region in Postgraduate Student Electronic Design Competition.
 - *2022.03*: &nbsp;🎉🎉 I received the master's offer letter from the School of Electronic Information of Northwestern Polytechnical University.
+-->
+
+
+
 
 <h1 id="news">🔥 News</h1>
 
@@ -73,8 +78,8 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
 
 <details>
   <summary>
-    <span class="when-closed">▼ 展开更多 News</span>
-    <span class="when-open">▲ 收起</span>
+    <span class="when-closed">▼ Show more News</span>
+    <span class="when-open">▲ Show less</span>
   </summary>
   <ul>
     <li><em>2024.11</em>: &nbsp;🎉🎉 As the only youth representative from Asia, I went to Malta to attend the Global Innovation Forum 2024, Sponsored by ITU. (<a href="https://www.itu.int/itu-d/meetings/gif-24/programme/speakers/#IPSSpeaker1195-95">View Details</a>)</li>
@@ -87,6 +92,7 @@ He has published more than ten papers indexed by SCI.([Google Scholar](https://s
     <li><em>2022.03</em>: &nbsp;🎉🎉 I received the master's offer letter from the School of Electronic Information of Northwestern Polytechnical University.</li>
   </ul>
 </details>
+
 
 
 # 📝 Publications 
