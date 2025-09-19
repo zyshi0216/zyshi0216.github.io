@@ -120,7 +120,7 @@ Jiandong Zhang, **Zhuoyong Shi***, Anli Zhang, et al. UAV Trajectory Prediction 
         <summary>
           <img src="images/TAES.png" alt="sym" width="100%">
         </summary>
-        <img src="images/TAES_hd.png" alt="sym_hd" width="100%">
+        <img src="images/TAES.png" alt="sym_hd" width="100%">
       </details>
 
     </div>
