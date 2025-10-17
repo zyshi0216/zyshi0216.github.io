@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-&nbsp;&nbsp;&nbsp;&nbsp;Shi Zhuoyong was born in China in 2001. He is currently pursuing a PhD in Science at the National University of Singapore on a fully funded research scholarship. He received his Bachelor of Engineering and Master of Engineering degrees in 2022 and 2025, respectively.
+&nbsp;&nbsp;&nbsp;&nbsp;Shi Zhuoyong was born in China in 2001. He is currently pursuing a Ph.D. in Science at the National University of Singapore (NUS) with a fully funded research scholarship. He received his Bachelor of Engineering and Master of Engineering degrees in 2022 and 2025, respectively.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;His **research interests** includes: Flexible Electronic System, Machine Learning, Pattern Recognition, Data Fusion, UAV, Mathematical Modeling etc. 
-He has published more than ten papers indexed by SCI.([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
+&nbsp;&nbsp;&nbsp;&nbsp;His research focuses on building bridges between intelligent sensing and physical modeling to digitize the dynamic states of humans, machines, and environments.His broader research interests include flexible electronic systems, machine learning, pattern recognition, data fusion, unmanned aerial vehicles (UAVs), and mathematical modeling.
+He has published over ten SCI-indexed papers, and his works span from wearable sensing and human digital twins to UAV swarm intelligence and environmental reconstruction.([Google Scholar](https://scholar.google.com/citations?user=iizm6rEAAAAJ&hl=en))
 <br>
 (<a href="show/zyshiCV_en.pdf">Click here to view my CV</a>)
 
